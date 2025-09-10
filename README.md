@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Amanuel T. Dufera (@amani-td)
 
-<!--
-**amani-td/amani-td** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🔬 About Me
+I am a **researcher** specializing in perception, 3D vision, SLAM, and motion planning for mobile robots. My work blends robotics, AI, and optimization, with a focus on advancing autonomous systems.
 
-Here are some ideas to get you started:
+## 💡 Top Skills & Technologies
+- **Python** | **PyTorch**
+- **ROS** (Robot Operating System)
+- 3D Vision & SLAM
+- Motion Planning
+- Metaheuristic Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- [amani-td.github.io](https://github.com/amani-td/amani-td.github.io) — My personal website and portfolio
+
+## 📚 Publication
+- [Recent advancement of metaheuristic optimization algorithms-based learning for breast cancer diagnosis: a review](https://www.researchgate.net/publication/392931999_Recent_advancement_of_metaheuristic_optimization_algorithms-based_learning_for_breast_cancer_diagnosis_a_review)
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/emmanueldufera/)
+- [X (Twitter)](https://x.com/dufera_ama36621)
+
+## ⚽ Fun Facts
+- Football enthusiast and passionate hiker
+- Always exploring new ways to bridge robotics and AI
+
+---
+
+> *“Advancing robotics, one algorithm at a time.”*
