@@ -12,7 +12,10 @@ I am a **researcher** specializing in perception, 3D vision, SLAM, and motion pl
 
 ## 🚀 Featured Projects
 
-- [World-models](https://github.com/amani-td/World-models) — A collection of JEPA and latent world-model papers, with links to published versions and code, updated daily
+- [World-models](https://github.com/amani-td/World-models) — A reading list for joint-embedding predictive architectures (JEPA) and the world models built on them, from I-JEPA, V-JEPA 2 and LeJEPA to action-conditioned planners such as DINO-WM and LeWorldModel.
+  - Also covers Hamiltonian, symplectic and Koopman latent dynamics, drone and robot applications, and the Dreamer-style models they are compared with.
+  - Each paper links to its arXiv page, its peer-reviewed version where one exists, and its official code. Community reimplementations are marked separately.
+  - A script checks arXiv every morning and adds new papers automatically.
 - [amani-td.github.io](https://github.com/amani-td/amani-td.github.io) — My personal website and portfolio
 
 ## 📚 Publication
