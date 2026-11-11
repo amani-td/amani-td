@@ -12,6 +12,7 @@ I am a **researcher** specializing in perception, 3D vision, SLAM, and motion pl
 
 ## 🚀 Featured Projects
 
+- [World-models](https://github.com/amani-td/World-models) — A collection of JEPA and latent world-model papers, with links to published versions and code, updated daily
 - [amani-td.github.io](https://github.com/amani-td/amani-td.github.io) — My personal website and portfolio
 
 ## 📚 Publication
