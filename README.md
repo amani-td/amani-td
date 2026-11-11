@@ -30,6 +30,8 @@ I am a robotics researcher at SUSTech in Shenzhen. My work covers how mobile rob
 - [Recent advancement of metaheuristic optimization algorithms-based learning for breast cancer diagnosis: a review](https://www.researchgate.net/publication/392931999_Recent_advancement_of_metaheuristic_optimization_algorithms-based_learning_for_breast_cancer_diagnosis_a_review)
 
 ## 🌐 Connect With Me
+If you want to collaborate on research, email me at [12531014@mail.sustech.edu.cn](mailto:12531014@mail.sustech.edu.cn).
+
 - [LinkedIn](https://www.linkedin.com/in/emmanueldufera/)
 - [X (Twitter)](https://x.com/dufera_ama36621)
 
